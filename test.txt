@@ -1,1 +1,2 @@
 this is change 3 in coins
+adding a new line in coins
